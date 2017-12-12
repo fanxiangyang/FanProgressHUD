@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		664C6B111F8F1E0B00CC68C6 /* heart-yilian@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 664C6B0F1F8F1E0B00CC68C6 /* heart-yilian@2x.png */; };
+		664C6B121F8F1E0B00CC68C6 /* heart-yilian@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 664C6B101F8F1E0B00CC68C6 /* heart-yilian@3x.png */; };
+		664C6B141F8F25F300CC68C6 /* fan_bg_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 664C6B131F8F25F300CC68C6 /* fan_bg_btn@2x.png */; };
+		664C6B261F90629B00CC68C6 /* FanHUDAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 664C6B251F90629B00CC68C6 /* FanHUDAlertView.m */; };
 		665AB8C81F7A4269000C280E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 665AB8C71F7A4269000C280E /* AppDelegate.m */; };
 		665AB8CB1F7A4269000C280E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 665AB8CA1F7A4269000C280E /* ViewController.m */; };
 		665AB8CE1F7A4269000C280E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 665AB8CC1F7A4269000C280E /* Main.storyboard */; };
@@ -15,6 +19,17 @@
 		665AB8D61F7A4269000C280E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 665AB8D51F7A4269000C280E /* main.m */; };
 		665AB8E01F7A4269000C280E /* FanProgressHUDTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 665AB8DF1F7A4269000C280E /* FanProgressHUDTests.m */; };
 		665AB8EB1F7A4269000C280E /* FanProgressHUDUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 665AB8EA1F7A4269000C280E /* FanProgressHUDUITests.m */; };
+		665AB90B1F7A4432000C280E /* FanProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 665AB90A1F7A4432000C280E /* FanProgressHUD.m */; };
+		665AB9161F7B7C57000C280E /* fan_bg_loding@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9121F7B7C57000C280E /* fan_bg_loding@2x.png */; };
+		665AB9171F7B7C57000C280E /* fan_loding@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9131F7B7C57000C280E /* fan_loding@3x.png */; };
+		665AB9181F7B7C57000C280E /* fan_bg_txt@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9141F7B7C57000C280E /* fan_bg_txt@2x.png */; };
+		665AB9191F7B7C57000C280E /* fan_loding@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9151F7B7C57000C280E /* fan_loding@2x.png */; };
+		665AB91B1F7BA768000C280E /* fan_bg_alert@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB91A1F7BA768000C280E /* fan_bg_alert@2x.png */; };
+		665AB91F1F7C93C2000C280E /* FanHUDVisionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 665AB91E1F7C93C2000C280E /* FanHUDVisionView.m */; };
+		665AB9241F7CCA05000C280E /* fan_vision_password@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9201F7CCA05000C280E /* fan_vision_password@2x.png */; };
+		665AB9251F7CCA05000C280E /* fan_bg_vision@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9211F7CCA05000C280E /* fan_bg_vision@2x.png */; };
+		665AB9261F7CCA05000C280E /* fan_vision_wifi@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9221F7CCA05000C280E /* fan_vision_wifi@2x.png */; };
+		665AB9271F7CCA05000C280E /* fan_vision_btn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 665AB9231F7CCA05000C280E /* fan_vision_btn@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +50,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		664C6B0F1F8F1E0B00CC68C6 /* heart-yilian@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "heart-yilian@2x.png"; sourceTree = "<group>"; };
+		664C6B101F8F1E0B00CC68C6 /* heart-yilian@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "heart-yilian@3x.png"; sourceTree = "<group>"; };
+		664C6B131F8F25F300CC68C6 /* fan_bg_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_bg_btn@2x.png"; sourceTree = "<group>"; };
+		664C6B241F90629B00CC68C6 /* FanHUDAlertView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanHUDAlertView.h; sourceTree = "<group>"; };
+		664C6B251F90629B00CC68C6 /* FanHUDAlertView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanHUDAlertView.m; sourceTree = "<group>"; };
 		665AB8C31F7A4269000C280E /* FanProgressHUD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FanProgressHUD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		665AB8C61F7A4269000C280E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		665AB8C71F7A4269000C280E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +71,19 @@
 		665AB8E61F7A4269000C280E /* FanProgressHUDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FanProgressHUDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		665AB8EA1F7A4269000C280E /* FanProgressHUDUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanProgressHUDUITests.m; sourceTree = "<group>"; };
 		665AB8EC1F7A4269000C280E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		665AB9091F7A4432000C280E /* FanProgressHUD.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanProgressHUD.h; sourceTree = "<group>"; };
+		665AB90A1F7A4432000C280E /* FanProgressHUD.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanProgressHUD.m; sourceTree = "<group>"; };
+		665AB9121F7B7C57000C280E /* fan_bg_loding@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_bg_loding@2x.png"; sourceTree = "<group>"; };
+		665AB9131F7B7C57000C280E /* fan_loding@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_loding@3x.png"; sourceTree = "<group>"; };
+		665AB9141F7B7C57000C280E /* fan_bg_txt@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_bg_txt@2x.png"; sourceTree = "<group>"; };
+		665AB9151F7B7C57000C280E /* fan_loding@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_loding@2x.png"; sourceTree = "<group>"; };
+		665AB91A1F7BA768000C280E /* fan_bg_alert@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_bg_alert@2x.png"; sourceTree = "<group>"; };
+		665AB91D1F7C93C2000C280E /* FanHUDVisionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FanHUDVisionView.h; sourceTree = "<group>"; };
+		665AB91E1F7C93C2000C280E /* FanHUDVisionView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FanHUDVisionView.m; sourceTree = "<group>"; };
+		665AB9201F7CCA05000C280E /* fan_vision_password@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_vision_password@2x.png"; sourceTree = "<group>"; };
+		665AB9211F7CCA05000C280E /* fan_bg_vision@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_bg_vision@2x.png"; sourceTree = "<group>"; };
+		665AB9221F7CCA05000C280E /* fan_vision_wifi@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_vision_wifi@2x.png"; sourceTree = "<group>"; };
+		665AB9231F7CCA05000C280E /* fan_vision_btn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fan_vision_btn@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +114,7 @@
 		665AB8BA1F7A4269000C280E = {
 			isa = PBXGroup;
 			children = (
+				665AB8FC1F7A435A000C280E /* Classes */,
 				665AB8C51F7A4269000C280E /* FanProgressHUD */,
 				665AB8DE1F7A4269000C280E /* FanProgressHUDTests */,
 				665AB8E91F7A4269000C280E /* FanProgressHUDUITests */,
@@ -130,6 +164,47 @@
 				665AB8EC1F7A4269000C280E /* Info.plist */,
 			);
 			path = FanProgressHUDUITests;
+			sourceTree = "<group>";
+		};
+		665AB8FC1F7A435A000C280E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				665AB91C1F7C9399000C280E /* KYVisionView */,
+				665AB90F1F7A525A000C280E /* images */,
+				665AB9091F7A4432000C280E /* FanProgressHUD.h */,
+				665AB90A1F7A4432000C280E /* FanProgressHUD.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		665AB90F1F7A525A000C280E /* images */ = {
+			isa = PBXGroup;
+			children = (
+				664C6B131F8F25F300CC68C6 /* fan_bg_btn@2x.png */,
+				665AB91A1F7BA768000C280E /* fan_bg_alert@2x.png */,
+				665AB9121F7B7C57000C280E /* fan_bg_loding@2x.png */,
+				665AB9141F7B7C57000C280E /* fan_bg_txt@2x.png */,
+				665AB9151F7B7C57000C280E /* fan_loding@2x.png */,
+				665AB9131F7B7C57000C280E /* fan_loding@3x.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		665AB91C1F7C9399000C280E /* KYVisionView */ = {
+			isa = PBXGroup;
+			children = (
+				664C6B0F1F8F1E0B00CC68C6 /* heart-yilian@2x.png */,
+				664C6B101F8F1E0B00CC68C6 /* heart-yilian@3x.png */,
+				665AB9211F7CCA05000C280E /* fan_bg_vision@2x.png */,
+				665AB9231F7CCA05000C280E /* fan_vision_btn@2x.png */,
+				665AB9201F7CCA05000C280E /* fan_vision_password@2x.png */,
+				665AB9221F7CCA05000C280E /* fan_vision_wifi@2x.png */,
+				665AB91D1F7C93C2000C280E /* FanHUDVisionView.h */,
+				665AB91E1F7C93C2000C280E /* FanHUDVisionView.m */,
+				664C6B241F90629B00CC68C6 /* FanHUDAlertView.h */,
+				664C6B251F90629B00CC68C6 /* FanHUDAlertView.m */,
+			);
+			path = KYVisionView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,8 +313,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				664C6B121F8F1E0B00CC68C6 /* heart-yilian@3x.png in Resources */,
+				664C6B141F8F25F300CC68C6 /* fan_bg_btn@2x.png in Resources */,
+				665AB9241F7CCA05000C280E /* fan_vision_password@2x.png in Resources */,
+				665AB9251F7CCA05000C280E /* fan_bg_vision@2x.png in Resources */,
 				665AB8D31F7A4269000C280E /* LaunchScreen.storyboard in Resources */,
 				665AB8D01F7A4269000C280E /* Assets.xcassets in Resources */,
+				665AB9191F7B7C57000C280E /* fan_loding@2x.png in Resources */,
+				665AB9271F7CCA05000C280E /* fan_vision_btn@2x.png in Resources */,
+				665AB9161F7B7C57000C280E /* fan_bg_loding@2x.png in Resources */,
+				665AB91B1F7BA768000C280E /* fan_bg_alert@2x.png in Resources */,
+				665AB9261F7CCA05000C280E /* fan_vision_wifi@2x.png in Resources */,
+				665AB9171F7B7C57000C280E /* fan_loding@3x.png in Resources */,
+				665AB9181F7B7C57000C280E /* fan_bg_txt@2x.png in Resources */,
+				664C6B111F8F1E0B00CC68C6 /* heart-yilian@2x.png in Resources */,
 				665AB8CE1F7A4269000C280E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -266,7 +353,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				665AB8CB1F7A4269000C280E /* ViewController.m in Sources */,
+				664C6B261F90629B00CC68C6 /* FanHUDAlertView.m in Sources */,
+				665AB91F1F7C93C2000C280E /* FanHUDVisionView.m in Sources */,
 				665AB8D61F7A4269000C280E /* main.m in Sources */,
+				665AB90B1F7A4432000C280E /* FanProgressHUD.m in Sources */,
 				665AB8C81F7A4269000C280E /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -433,6 +523,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NW3X9NZ9UP;
 				INFOPLIST_FILE = FanProgressHUD/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fan.FanProgressHUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -447,6 +538,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NW3X9NZ9UP;
 				INFOPLIST_FILE = FanProgressHUD/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fan.FanProgressHUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
